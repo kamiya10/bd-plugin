@@ -1,7 +1,7 @@
 /**
  * @name Kamiya
- * @website https://github.com/kamiya10/bd-plugin/tree/master/osuTimestamp
- * @source https://github.com/kamiya10/bd-plugin/blob/master/osuTimestamp/osuTimestamp.plugin.js
+ * @website https://github.com/kamiya10/bd-plugin/tree/main/osuTimestamp
+ * @source https://github.com/kamiya10/bd-plugin/blob/main/osuTimestamp/osuTimestamp.plugin.js
  */
 
 module.exports = (() => {
@@ -18,8 +18,8 @@ module.exports = (() => {
       ],
       "version": "1.0.0",
       "description": "Render osu! timestamps into clickable urls.",
-      "github": "https://github.com/kamiya10/bd-plugin/tree/master/osuTimestamp",
-      "github_raw": "https://github.com/kamiya10/bd-plugin/blob/master/osuTimestamp/osuTimestamp.plugin.js"
+      "github": "https://github.com/kamiya10/bd-plugin/tree/main/osuTimestamp",
+      "github_raw": "https://github.com/kamiya10/bd-plugin/blob/main/osuTimestamp/osuTimestamp.plugin.js"
     }
   };
 
